@@ -1,3 +1,3 @@
 package io.github.rtmigo.kitestsample
 
-fun greet() = "hello"
+fun greet() = "hello :)"
