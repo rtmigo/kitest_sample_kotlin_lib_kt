@@ -1,6 +1,6 @@
-gradlew
-gradlew.bat
-gradle/
+#gradlew
+#gradlew.bat
+#gradle/
 
 labuda/
 .DS_Store
