@@ -1,4 +1,5 @@
-Sample Kotlin library.
+Sample Kotlin library for [kitest](https://github.com/rtmigo/kitest_py).
 
-This repo is used by [kitest](https://github.com/rtmigo/kitest_py) unit tests. It helps to verify,
-that `kitest` words correctly.
+This repo is used by `kitest` unit tests.
+
+The unit tests download this library from GitHub to verify that `kitest` works correctly.
