@@ -1,5 +1,5 @@
-Sample Kotlin library for [kitest](https://github.com/rtmigo/kitest_py).
+Sample Kotlin library for [tempp](https://github.com/rtmigo/tempp_py).
 
-This repo is used by `kitest` unit tests.
+This repo is used by `tempp` unit tests.
 
-The unit tests download this library from GitHub to verify that `kitest` works correctly.
+The unit tests download this library from GitHub to verify that `tempp` works correctly.
